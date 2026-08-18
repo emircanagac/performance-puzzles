@@ -1,0 +1,10 @@
+# Ignore local accidentally compiled binaries (extensionless files)
+*_*
+!*.sh
+!*.c
+!*.go
+!*.rs
+!*.md
+
+# Ignore temporary files created by shell scripts
+/tmp/*
