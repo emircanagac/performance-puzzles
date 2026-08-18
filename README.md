@@ -2,7 +2,7 @@
 
 A collection of computational benchmarks, algorithms, and performance experiments across different programming languages.
 
-The goal of this repository is not just to say "Language X is faster than Language Y," but to demonstrate how **algorithmic complexity** (e.g., $O(N \sqrt{N})$ vs. $O(N \log \log N)$) often outweighs raw language speed, and to showcase the extreme differences between interpreted scripts, virtual machines, and compiled systems programming languages.
+The goal of this repository is not just to say "Language X is faster than Language Y," but to demonstrate how **algorithmic complexity** (e.g., `O(N √N)` vs. `O(N log log N)`) often outweighs raw language speed, and to showcase the extreme differences between interpreted scripts, virtual machines, and compiled systems programming languages.
 
 ## Puzzles Catalog
 
